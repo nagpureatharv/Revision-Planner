@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230663942575",
+    "project_id": "revision-planner1",
+    "storage_bucket": "revision-planner1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230663942575:android:084707d882d105e1887f5a",
+        "android_client_info": {
+          "package_name": "com.example.revisionplneer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230663942575-9oi26iflql092todu9fooer69pulq6u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revisionplneer1",
+            "certificate_hash": "a9798abef808b11b6acaa19ba6befc47d7e523af"
+          }
+        },
+        {
+          "client_id": "230663942575-vm7u326tkkni0d4lbr2bh0oudgmim0ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDp2LOB8oHV-7X80liUQkJACIQKSY8Tkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230663942575-vm7u326tkkni0d4lbr2bh0oudgmim0ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

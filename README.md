@@ -31,36 +31,30 @@ https://youtu.be/SiuK6kCzkdA
 
 ## Google Auth Screen 
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/GoogleAuth_Screen.png?raw=true)
+<img src="https://github.com/nagpureatharv/Revision-Planner/raw/master/screenshots/GoogleAuth_Screen.png?raw=true" width="300" height="550" />
 
 ## Today Section
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Today_Screen.png?raw=true)
+<img src="https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Today_Screen.png?raw=true" width="300" height="550" />
 
 ## Overdue Section
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Overdue_Screen.png?raw=true)
+<img src="https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Overdue_Screen.png?raw=true" width="300" height="550" />
 
 ## Upcoming Section
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Upcoming_Screen.png?raw=true)
+<img src="https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Upcoming_Screen.png?raw=true" width="300" height="550" />
 
 ## Add Revision Screen
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Add_Screen.png?raw=true)
+<img src="https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Add_Screen.png?raw=true" width="300" height="550" />
 
 ## Update Screen
 
-![Login](https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Update_Screen.png?raw=true)
-
-
-
-
-
-
+<img src="https://github.com/nagpureatharv/Revision-Planner/blob/master/screenshots/Update_Screen.png?raw=true" width="300" height="550" />
 
 ## Authors
 
 - [@nagpureatharv](https://github.com/nagpureatharv)
 
-<img src="https://github.com/nagpureatharv/Revision-Planner/raw/master/screenshots/GoogleAuth_Screen.png?raw=true" width="300" height="550" />
+

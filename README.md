@@ -63,3 +63,4 @@ https://youtu.be/SiuK6kCzkdA
 
 - [@nagpureatharv](https://github.com/nagpureatharv)
 
+<img src="https://github.com/nagpureatharv/Revision-Planner/raw/master/screenshots/GoogleAuth_Screen.png?raw=true" width="250" height="250" />
